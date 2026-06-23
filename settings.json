@@ -8,7 +8,7 @@
   "server": {
     "ip": "RustSyo.aternos.me",
     "port": 37841,
-    "version": "",
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -39,7 +39,7 @@
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 12000000000000
+    "max-reconnect-delay": 1200000000
   },
   "movement": {
     "enabled": true,
