@@ -9,7 +9,7 @@
     "ip": "RustSyo.aternos.me",
     "port": 37841,
     "version": "1.21.11",
-    "try-creative": false
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -31,15 +31,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Я бот сервера",
-        "Я бот сервера",
-        "Я бот сервера"
+        "Кто тим?",
+        "Ребят, кому дать алмазы?",
+        "сервер имбаа"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
     "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 1200000000
+    "max-reconnect-delay": 3000
   },
   "movement": {
     "enabled": true,
